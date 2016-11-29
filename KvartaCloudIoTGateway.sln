@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "KvartaCloudIoTGateway", "KvartaCloudIoTGateway\KvartaCloudIoTGateway.ccproj", "{D6CE2B2C-54B9-4712-A670-C81C7DD03702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{A983F3C5-DEFC-46F5-8E80-E015B4BEE162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CE2B2C-54B9-4712-A670-C81C7DD03702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CE2B2C-54B9-4712-A670-C81C7DD03702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CE2B2C-54B9-4712-A670-C81C7DD03702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CE2B2C-54B9-4712-A670-C81C7DD03702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A983F3C5-DEFC-46F5-8E80-E015B4BEE162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A983F3C5-DEFC-46F5-8E80-E015B4BEE162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A983F3C5-DEFC-46F5-8E80-E015B4BEE162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A983F3C5-DEFC-46F5-8E80-E015B4BEE162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

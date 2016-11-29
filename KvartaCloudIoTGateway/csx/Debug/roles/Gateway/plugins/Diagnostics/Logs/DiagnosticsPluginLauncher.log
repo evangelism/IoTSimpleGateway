@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Emulator config file set to C:\Dev\KvartaCloudIoTGateway\KvartaCloudIoTGateway\csx\Debug\roles\Gateway\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] DiagnosticsStoreRootPath set to: C:\Users\ahriman\AppData\Local\dftmp\Resources\7952677b-8d6f-4f80-9166-0cd07eea6dda
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Loading config file: C:\Dev\KvartaCloudIoTGateway\KvartaCloudIoTGateway\csx\Debug\roles\Gateway\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Config file to read: C:\Dev\KvartaCloudIoTGateway\KvartaCloudIoTGateway\csx\Debug\roles\Gateway\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Emulator config file set to C:\Dev\KvartaCloudIoTGateway\KvartaCloudIoTGateway\csx\Debug\roles\Gateway\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:00 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:01 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:01 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:01 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:01 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:47:01 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:48:11 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [10/18/2016 1:48:11 PM] DiagnosticPlugin exited with code 0
